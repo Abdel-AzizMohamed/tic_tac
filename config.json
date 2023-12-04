@@ -1,0 +1,13 @@
+{
+    "window": {
+        "size": [0, 0],
+        "grid_div": 2,
+        "fps": 60,
+        "title": "Engine"
+    },
+    "fonts": {
+        "pixal_50": {"font_path": "fonts/Pixeltype.ttf", "size": 50},
+        "pixal_35": {"font_path": "fonts/Pixeltype.ttf", "size": 35},
+        "pixal_15": {"font_path": "fonts/Pixeltype.ttf", "size": 15}
+    }
+}
