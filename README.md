@@ -3,7 +3,6 @@ Tic-tac
 simple tic tac toe game made with pygame & PyEngine
 
 ## Installation
-------
 if you only want to play the game download it from releases page or from itch
 
 if you want to run it from the code
