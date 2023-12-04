@@ -1,7 +1,9 @@
 # tmp files
 *.swp
 .vscode/
-temp.py
+temp*
+dist/
+build/
 
 # Python ignore
 *.pyc
@@ -11,7 +13,6 @@ temp.py
 
 #my ignore
 Planning/
-GamePublish/
+game_publish/
 *.spec
-key
 pseudo/
