@@ -1,6 +1,6 @@
 Tic-tac
 ======
-!(Game preview)[preview.jpg]
+![Game preview](preview.jpg)
 
 simple tic tac toe game made with Pygame & PyEngine
 
